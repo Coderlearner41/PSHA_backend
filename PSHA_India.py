@@ -16,6 +16,7 @@ Usage (as module in FastAPI):
   result = compute_uhs(longitude=77.35, latitude=28.60, return_period=475)
 """
 
+import os
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.io import loadmat
