@@ -23,7 +23,9 @@ from scipy.io import loadmat
 # =============================================================================
 # LOAD DATA ONCE  (module-level — fast for API use)
 # =============================================================================
-_data    = loadmat("Hazard_curves_SDEE.mat")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+MAT_PATH = os.path.join(BASE_DIR, "Hazard_curves_SDEE.mat")
+_data    = loadmat(MAT_PATH)
 
 _fmhc    = _data["final_mean_hazard_curve"]   # shape (1, 27)
 _int_g   = _data["int_g"].flatten()            # shape (15,)
