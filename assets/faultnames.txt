@@ -1,0 +1,237 @@
+----14sheet--------------
+lat=26.8 lon=91.5 atherkhet fault 1
+26.4 92.4 Dhansiri kopill fault 2
+25.5 90.8 Dudhnoi fault 3
+25.6 91.4 Kulsi fault 4
+25.3 92.3 Dauki fault 5
+24.4 91.2 Syihet fault 6
+24.2 90.1 Jamuna fault 7
+
+-------15sheet---------
+95.6804 29.7297 po chu fault 8
+94.7 28.5 Bame Tuting fault 9
+
+--------19sheet---------
+73.75 24.91  Nathdwara fault 10
+72.64 23.52 Marginal fault 11
+72.34 23.08 Marginal fault 12
+73.92 22.03 Thargon fault 13
+73.94 21.09 Son-narmada fault 14
+74.89 21.93 Barwan-Sukta fault 15
+74.04 21.49 Tapti North fault 16
+74.77 21.37 Tapti North fault 17
+
+--------20sheet---------
+76.71 21.94 Son narmada south fault 16
+75.61 21.55 Barwani Sukta fault 17
+77.05 21.69 Tapti North fault  18
+
+-----------21sheet---------
+78.8 21.8 Gavilgarh fault 19
+
+----------22sheet----------
+82.2 23.25 Bamhni-Chilpa fault 20
+83.2 23.55 Tatapani fault 21
+81.5 24.28 SonNarmada north fault 22
+81.78 24.3 Son Narmada south fault 23
+
+--------23sheet----------
+84.9 21.75 Brahmani fault 24 
+
+--------24sheet---------
+87.4031 24.4942 Sainthia bahmani fault 25
+87.8970 24.7224 Rajmahal fault 26
+88.0771 24.7757 Malda-Kishanganj fault 27
+88.6530 24.8245 Gaibandha fault 28
+88.0449 24.3686 Jangipur fault 29
+87.7732 23.3417 Garhmayna Khanda Ghosh fault 30
+89.9    24.9    Dhubri fault 31
+87.6    22.5    Pingla fault 32
+89      24.4    Debagram-Bogra fault 33
+   
+----------27sheet-------
+72.2 20    Upper Godavari fault 34
+73.1 18.6  West coast fault 35
+73.35 18.4 Chiplun fault 36   
+74.15 17.6 Warna fault 37  
+
+----------28sheet---------
+77.15 20.15 Kaddam fault 38
+77     20.9 Purna fault 39
+
+---------29sheet----------
+80.2 18.8 Godavari valley fault 40
+80.3 17.9 Kinnerasani Godavari fault 41
+80.55 17.5 Kolleru lake fault 42
+
+---------30sheet----------
+18.84 83.82 Vamsadhara fault 43
+18.4  83.9  Nagavali fault 44
+18.4  83.55 Parvatipuram-Bobbili fault 45
+18.2  83.5  Kannada-Kumili fault 46
+
+---------31sheet----------
+
+--------32sheet-----------
+
+--------33sheet-----------
+76.5 16.4 Tintini fault 47
+76.3 16.3 Krishna river fault 48
+16.4 77.6 Raichur-Nagar Kurnool fault 49
+15.5 77.8 Gani Kalva fault 50
+15.15 76.15 Dharma Tungabhadra fault 51
+14.9 76.1 Kumadavati Narihalla fault 52
+15.2 77.85 Pyapalli fault 53
+14.85 76.8 Gudekota-Rampura fault 54
+15.15 77.2 Wajrakarur fault 55
+14.4 77.7 Bukkapatnam fault 56
+13.6 76.8 Chitradurga boundary fault 57
+13.3 75.8 Chikmagalur fault 58
+
+-------34sheet--------------
+16.4 78.5 Raichur-Nagarkurnool fault 59
+16.35 78.85 Nallavagu fault 60
+16.3 78.8 Nekkantivagu fault 61
+16.0 78.9 Rudravagu fault 
+15.8 78.6 Atmakur fault 62
+16.0 78.6 Bhavanasi river fault 63
+15.5 78.1 Gani-kalva fault
+15.8 80.2 Addanki-Nujividu fault 64
+15.9 80.6 Nijampatnam-Nagayalanka fault 65
+16.3 79.7 gandlakamma fault 66
+14.78 79.1 Badvel fault 67
+14.6 78.8 Papaghani fault 68
+14.3 78.6 Gulcheru fault 
+14.25 78.25 Kadiri fault 69
+13.8 79.4 Tirumala fault 70
+13.8 79.8 Karkambadi-swarnamukhi fault 71
+
+-------35&42sheet-------------
+16.5 81.7 Vasishta Godavari fault 72
+***********************
+
+--------36sheet---------------
+12.5 93.8West Andaman fault 73
+Andaman Trench 74
+
+---------37sheet------------
+
+---------38sheet------------
+12.6 75.9 Sakleshpur-Belladpur fault 75
+12.7 77.3 Arkavati fault 76
+11.8 75.94 Bhavali fault 77
+11.8 77.8 Mettur East fault 78
+11.2 77.8 Bhavani Kanumodi fault 79
+11.38 77.3 Tiruppur fault 80
+11.05 77.4 Cauveri fault 81
+10.4 77.3 KottagudiKokkal fault 82
+10.3 77.08 Valparai-Anaimudi fault 83
+10.45 77.6 Ayyakudi-Virupaksha fault 84
+10.1 77.8 vaigai river fault 85
+10.1 76.9 Periyar fault 86
+10.45 76.7 Ottapalam-Kuttampuzha fault 87
+9.3 77.3 Tekkadi-Kodaivannalur fault 88
+
+---------39sheet-------------
+12.85 79.15 Palar river fault 89
+12.5 78.85 Javadi Hills fault 90
+12.1 78.6 Pambar river fault 91
+11.95 79.75 Tirukkavilur-Pondicherry fault 92
+11.6 79.15 Crystalline sedimentary contact fault 93
+11.3 78.6 Attur fault 94
+10.65 79.85 Mouth of Coleroon-Point Calimere fault 95
+10.2 79.65 Rajamatam-Point Calimere fault 96
+10.15 78.9 Amaradakki fault 97
+9.6 78.9 Rajamatam-devipattanam fault 98
+9.1 78.35 Crystalline sedimentary contact fault 99
+
+------------40sheet---------------
+
+------------41sheet---------------
+
+------------43sheet---------------
+
+------------sheet 1---------------
+34.4 72.3 Peshawar fault 100
+34.3 72.8 Tarbela fault 101
+34.5 73.3 Shinkiari fault 102
+33.8 72.7 Attock fault 103
+33.8 73.4 Jhelum fault 104
+33.4 73.8 Mangla fault 105
+
+-----------sheet 2---------
+77.2 36.4 Altyn Tagh fault 106 
+76.5 35.9 Karakoram fault 107
+75.8 33.9 Kishtwar fault 108
+
+----------sheet 3---------
+34.8 80.4 Lake Lighteu fault 109
+34.2 79.8 Beng Co fault 110
+
+---------sheet 4---------
+
+---------sheet 5---------
+32.3 77.1 Sundar nagar fault 111
+31.05 76.6 Ropor fault 112
+29.6 77.4 Mahendragrah-Dehradun fault 113
+
+---------sheet 6----------
+30.35 79.05 Alaknanda fault 114
+29.1 79.5 Moradabad fault 115
+
+-------sheet 7----------
+27.35 70.5 Ramgarh fault 116
+26.9 70.13 Ghotaro fault 117
+26.5 70.5 Manshuriyan fault 118
+26.55 70.8 Konoi fault 119
+26.5 71.1 Fatchgarh fault 120
+24.5 71.5 Marginal fault 121
+24.2 70.8 Allah bund fault 122
+
+--------sheet 8-------------
+28.6 73.5 Hathusar fault 123
+28.8 73.1 Dhandu fault 124
+28.35 73.95 Kalu fault 125
+27.94 74.1 Sadasar fault 126
+27.63 74.3 Sardar Shahar fault 127
+27.5 73.9 Chau fault 128
+27.3 73.9 Khatu fault 129
+27.45 73.6 Bhagu fault 130
+25.3 73.8 Kishangarh Chipri fault 131
+
+---------sheet 9------------
+28.55 76.5 Mahendragarh Dehradun fault 132
+27.75 75.8 Kantli fault 133
+26.5 77.1 Great boundary fault 134
+
+--------sheet 11--------
+
+--------sheet 12---------
+28.95 84.05 Tukhola fault 135
+28.5 85.1 Judi fault 136
+26.14 85.2 West Patna fault 137
+25.9 85.9 East Patna fault 138
+25.7 86.18 Munger saharsa ridge fault 139
+
+-----sheet 13--------------
+25.78 87.94 Malda Kishanganj fault 140
+25.9 88.8 Katihar-Nailphamari fault 141
+25.8 89.4 Tista fault 142
+25.7 89.88 Dhubri fault 143
+25.4 89.2 Jangipur-Gaibanda fault 144
+
+--------sheet 16----------------
+24.35 95.88 Shan saingaing fault 145
+
+-------sheet 17--------------
+28.8 97.7 Parlung fault 146
+
+---------sheet 18----------
+23.95 70.4 Island belt fault 147
+23.6 69.5 Kutch Mainland fault 148
+20.25 70.8 Kim fault 149 
+
+--------sheet 25-----------
+23.5 92.8 Mat fault 150
+
+	

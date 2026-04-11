@@ -1,0 +1,6 @@
+# Treat these as binary so Git doesn't corrupt them with CRLF line ending changes
+*.db binary
+*.sqlite binary
+*.shp binary
+*.dbf binary
+*.shx binary
